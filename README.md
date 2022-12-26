@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mihaid1980 aka Mihai DUMITRU
+- I come from Romania and I am currently (Dec.2022) working for AtoS Unify (I started in 2001 while we were still part of Siemens)
+- I am responsible for the Linux Platform OS Images for various tepephony products made by Unify
+- 👀 I’m interested in contributing to open source projects which are either included in openSuse/SLES or we include them in the products we are working on
+- 📫 How to reach me - mihai.dumitru@ispoq.ro (I speak/write in English, German and of course Romanian)
